@@ -53,4 +53,4 @@ try:
 except Exception as e:
     print("An error occurred: ", str(e))
     
-    [FBAN/FB4A;FBAV/;FBBV/;[FBAN/FB4A;FBAV/273.0.0.39.123;FBPN/com.facebook.katana;FBLC/vi_VN;FBBV/218047938;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-G532G;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=540,height=960};FB_FW/1;FBRV/219557400;]
+    
